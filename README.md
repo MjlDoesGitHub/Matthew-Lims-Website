@@ -1,0 +1,2 @@
+# Matthew-Lims-Website
+This was a website I made back in 7th grade, 2016. I used a really great program called Adobe Dreamweaver and my HTML knowledge to build this website. This website took a huge amount of time due to the CSS desingning. After I finished building the website , I used a hosting site called Namecheap. I hosted it for about a year until my hosting expired. You can still download and view my website via internet browsers or with any IDE.
